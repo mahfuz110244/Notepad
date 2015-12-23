@@ -1,0 +1,23 @@
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mahfuzur Rahman Khan\Downloads\Note Pad C# Project\Notepad\Notepad\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\WindowsApplication1\obj\Debug\GenerateResource.write.1.tlog

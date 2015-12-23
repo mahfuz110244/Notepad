@@ -1,0 +1,5 @@
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\DAL\bin\Debug\DAL.dll
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\DAL\bin\Debug\DAL.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\DAL\obj\Debug\DAL.dll
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\BO\bin\Debug\BO.dll
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\BO\bin\Debug\BO.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\BO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\BO\obj\Debug\BO.dll
+C:\Users\Mahfuzur Rahman Khan\Desktop\Mahfuz Notepad\Notepad\BO\obj\Debug\BO.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\BO\bin\Debug\BO.dll
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\BO\bin\Debug\BO.pdb
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\BO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\BO\obj\Debug\BO.dll
+C:\Users\Mahfuzur Rahman Khan\Desktop\New folder (2)\Mahfuz Notepad\Notepad\BO\obj\Debug\BO.pdb
